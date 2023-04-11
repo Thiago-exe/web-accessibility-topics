@@ -1,5 +1,6 @@
 # web-accessibility-topics
 repository for studies related to web design Brazilian legal compliance with Decree No. 5296 of December 2, 2004, which, in its article 47 deals with virtual accessibility.
+Reference course link: eMAG Desenvolvedor https://mooc38.escolavirtual.gov.br/course/view.php?id=10743
 
 When thinking about accessibility, many people associate the term with the elimination of barriers
 architectural. However, the concept of accessibility has expanded to other areas.
