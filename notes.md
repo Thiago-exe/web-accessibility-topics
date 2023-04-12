@@ -144,3 +144,5 @@ compreendem melhor um texto ao escutá-lo do que por meio da leitura.
 
 As WCAG (Web Content Accessibility Guidelines) são as recomendações de acessibilidade para
 conteúdo da Web
+
+Escrever exemplos de páginas com cada uma das técnicas da W3C de acessibilidade.
